@@ -34,4 +34,4 @@ jobs:
             echo "Cleaning unused Docker resources..."
             docker image prune -f
 
-            echo "Deployment completed successfully!"
+            echo "Deployment completed successfully !"
