@@ -9,7 +9,7 @@ const port = 7000;
 dotenv.config();
 app.use(
   cors({
-    origin: "https://todo-client-bay.vercel.app/",
+    origin: "https://todo-client-bay.vercel.app",
     methods: "GET,POST,PUT,DELETE",
     credentials: true,
   }),
