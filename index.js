@@ -1,4 +1,4 @@
-// Docker Check with Ci/cd pipeline
+// Docker 
 import express from "express";
 import cors from "cors";
 import dbconnect from "./utils/dbconnect.js";
